@@ -1,0 +1,19 @@
+.menu{
+    background-color:rgb(89, 255, 0);
+    display:flex;
+    justify-content:space-between;
+    font-size:20px;
+    font-family:sans-seriff;
+    font-weight:400;
+    color:black;
+}
+body{
+    background-color:#3FCCFF;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    margin:20px;
+    justify-content: space-between;
+    padding:70px;
+}
